@@ -5,3 +5,10 @@ H:\calculatrice-papp\calculatrice\calculatrice\bin\Debug\calculatrice.exe
 H:\calculatrice-papp\calculatrice\calculatrice\bin\Debug\calculatrice.pdb
 H:\calculatrice-papp\calculatrice\calculatrice\obj\Debug\calculatrice.exe
 H:\calculatrice-papp\calculatrice\calculatrice\obj\Debug\calculatrice.pdb
+H:\stage inf\calculatrice-papp\calculatrice\calculatrice\bin\Debug\calculatrice.exe.config
+H:\stage inf\calculatrice-papp\calculatrice\calculatrice\bin\Debug\calculatrice.exe
+H:\stage inf\calculatrice-papp\calculatrice\calculatrice\bin\Debug\calculatrice.pdb
+H:\stage inf\calculatrice-papp\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.AssemblyReference.cache
+H:\stage inf\calculatrice-papp\calculatrice\calculatrice\obj\Debug\calculatrice.csproj.CoreCompileInputs.cache
+H:\stage inf\calculatrice-papp\calculatrice\calculatrice\obj\Debug\calculatrice.exe
+H:\stage inf\calculatrice-papp\calculatrice\calculatrice\obj\Debug\calculatrice.pdb
